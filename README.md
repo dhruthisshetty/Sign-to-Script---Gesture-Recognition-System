@@ -12,8 +12,6 @@ The system employs Convolutional Neural Networks (CNN) with OpenCV to detect han
 
 - **Real-time Sign Language Detection**: Translate hand gestures to text instantly
 - **High Accuracy**: 94% accurate recognition using optimized CNN models
-- **User-friendly Interface**: Intuitive design for improved accessibility
-- **Multiple Sign Language Support**: Compatible with various sign language systems
 
 ## Research
 
