@@ -108,7 +108,6 @@ python data_collection.py
 - **Python**: Core programming language
 - **TensorFlow**: Deep learning framework
 - **OpenCV**: Computer vision library
-- **NLTK**: Natural language processing
 - **NumPy**: Numerical computing
 
 
@@ -117,7 +116,6 @@ python data_collection.py
 
 - Special thanks to mentors and my teammates at Srinivas Institute of Technology
 - ICRI Conference for publication opportunity
-- All contributors and testers who helped refine the system
 
 ## Contact
 
