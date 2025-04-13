@@ -34,7 +34,6 @@ This project has been featured in research presented at the ICRI International C
 - Python 3.7+
 - TensorFlow 2.x
 - OpenCV 4.x
-- NLTK
 - NumPy
 
 ### Setup
